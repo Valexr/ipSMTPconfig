@@ -1,5 +1,5 @@
 {
-    "name": "valexr/ip-plugin-smtp-config",
+    "name": "impresspages/ip-plugin-smtp-config",
     "description": "ImpressPages SMTPconfig plugin",
     "version": "1.02",
     "autoload": {
