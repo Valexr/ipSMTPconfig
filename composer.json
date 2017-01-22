@@ -5,7 +5,7 @@
     "autoload": {
         "psr-4": {"Plugin\\SMTPconfig\\": "/"}
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev-master",
     "license": [
         "MIT",
         "GPL-3.0+"
