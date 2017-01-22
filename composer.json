@@ -1,0 +1,13 @@
+{
+    "name": "valexr/ip-plugin-smtp-config",
+    "description": "ImpressPages SMTPconfig plugin",
+    "version": "1.02",
+    "autoload": {
+        "psr-4": {"Plugin\\SMTPconfig\\": "/"}
+    },
+    "minimum-stability": "dev",
+    "license": [
+        "MIT",
+        "GPL-3.0+"
+    ]
+}
